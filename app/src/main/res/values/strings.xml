@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Health Information Application for Diabetic Patients</string>
+    <string name="height">Height</string>
+    <string name="cm">cm</string>
+    <string name="calculate_your_bmi">Calculate your BMI</string>
+    <string name="weight">Weight</string>
+    <string name="age">age</string>
+    <string name="recalculate_your_bmi">recalculate your bmi</string>
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+</resources>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    android:theme="@style/Theme.AppCompat.NoActionBar">
+
+    <group android:checkableBehavior="single"
+        android:theme="@style/Theme.AppCompat.NoActionBar">
+
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/house"
+            android:title="Home" />
+
+        <item
+            android:id="@+id/nav_info"
+            android:icon="@drawable/info"
+            android:title="Diabetic Info" />
+
+        <item
+            android:id="@+id/nav_bmi"
+            android:icon="@drawable/bmi"
+            android:title="BMI calculator" />
+
+        <item
+            android:id="@+id/nav_medreminder"
+            android:icon="@drawable/reminder"
+            android:title="Medication Reminder" />
+
+        <item
+            android:id="@+id/nav_scheduler"
+            android:icon="@drawable/reminder"
+            android:title="Health Schedule" />
+
+
+    </group>
+
+    <item android:title="Profile">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_profile"
+                    android:icon="@drawable/ic_profile"
+                    android:title="Profile" />
+                <item
+                    android:id="@+id/nav_logout"
+                    android:icon="@drawable/ic_logout"
+                    android:title="Logout" />
+            </group>
+        </menu>
+    </item>
+
+</menu>

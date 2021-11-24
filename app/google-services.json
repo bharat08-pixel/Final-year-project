@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "98554885705",
+    "project_id": "diabetroz",
+    "storage_bucket": "diabetroz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98554885705:android:10c4b9a69be45b222ab198",
+        "android_client_info": {
+          "package_name": "my.edu.utar.finalyear1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98554885705-684qu0a57a6ph867ecjapno5qsqoslhl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALDQkZX5qEOstlSzefLc5hmXnAzPONE2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "98554885705-684qu0a57a6ph867ecjapno5qsqoslhl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
